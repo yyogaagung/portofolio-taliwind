@@ -4,8 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "postcss src/input.css -o dist/output.css",
-    "build": "cross-env NODE_ENV=production postcss src/input.css -o dist/output.css",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
